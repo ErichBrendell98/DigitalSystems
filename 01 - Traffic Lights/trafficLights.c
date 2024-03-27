@@ -3,7 +3,7 @@
 
 #define RED_LED_PIN PB7
 #define YELLOW_LED_PIN PB6
-#define GREEN_LED_PIN PB5
+#define GREEN_LED_PIN PB5   
 
 int main(void) {
     // Set the LED pins as outputs
